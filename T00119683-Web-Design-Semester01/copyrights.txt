@@ -1,0 +1,22 @@
+==== Image ====
+
+dark_wall.png - http://subtlepatterns.com/,
+christof-tof.jpg - https://www.flickr.com/photos/chprome/2643052373,
+eddy-berthier.jpg - https://www.flickr.com/photos/didy_b/8368467194/,
+night-vintage-music-bokeh.jpg - https://stock.tookapic.com/photos/25215,
+abstract-music-rock-bw-400-400.jpg - http://snapwiresnaps.tumblr.com/post/96535392588/caleb-morris-free-under-cc0-10-download,
+strumming.jpg - https://www.pexels.com/photo/guitar-music-sound-musician-13959/,
+technology-music-keyboard-headphone-400-400.jpg - http://www.splitshire.com/dj-tools/,
+willow.jpg - https://www.flickr.com/photos/didy_b/8478636786/,
+boys-noize.jpg - https://www.flickr.com/photos/jboo/4683161816/in/photostream/,
+bono.jpg - https://pixabay.com/en/paul-david-hewson-singer-bono-u2-434933/,
+guitar-man.jpg - https://pixabay.com/en/guy-emotions-guitar-music-ads-830864/,
+the-edge.jpg - https://pixabay.com/en/guitar-concert-music-electric-434938/,
+home-banner.jpg - https://www.flickr.com/photos/nanpalmero/10072452034/,
+joan-duasa.jpg - https://www.flickr.com/photos/marcpuig/14893943159/
+
+=== Fonts ===
+
+Icon Font - http://fontello.com
+Open Sans - https://www.google.com/fonts/specimen/Open+Sans
+Amatic - https://www.google.com/fonts/specimen/Amatic+SC
